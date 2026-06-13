@@ -2,7 +2,7 @@
 
 Flutter Developer with experience building scalable and production-grade mobile applications.
 
-## Tech Stack
+## 🚀 Tech Stack
 
 * Flutter & Dart
 * REST API Integration
@@ -11,24 +11,25 @@ Flutter Developer with experience building scalable and production-grade mobile 
 * Clean Architecture
 * Performance Optimization
 
-## Experience
+## 💼 Experience
 
 Currently working as an SDE 2 at MySchoolio, building and maintaining real-world ERP and automation systems.
 
-## Projects
+## 📱 Projects
 
 * School ERP Applications
-* Attendance & Fee Management Systems
-* Notification & Communication Modules
+* Attendance & Fee Management
+* Notification & Communication Systems
 * AI-powered Education Features
+* Admin & Automation Modules
 
-## Currently Exploring
+## 🌱 Currently Exploring
 
 * AI integrations in Flutter apps
 * Backend scalability
 * Advanced app architecture
 
-## Connect With Me
+## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/your-linkedin
+* LinkedIn: https://www.linkedin.com/in/rishab-vaishnav/
 * GitHub: https://github.com/rishabvsnv
