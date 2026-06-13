@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Rishabh 👋
 
-<!--
-**rishabvsnv/rishabvsnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter Developer with experience building scalable and production-grade mobile applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Flutter & Dart
+* REST API Integration
+* Riverpod / State Management
+* Supabase & MySQL
+* Clean Architecture
+* Performance Optimization
+
+## Experience
+
+Currently working as an SDE 2 at MySchoolio, building and maintaining real-world ERP and automation systems.
+
+## Projects
+
+* School ERP Applications
+* Attendance & Fee Management Systems
+* Notification & Communication Modules
+* AI-powered Education Features
+
+## Currently Exploring
+
+* AI integrations in Flutter apps
+* Backend scalability
+* Advanced app architecture
+
+## Connect With Me
+
+* LinkedIn: https://linkedin.com/in/your-linkedin
+* GitHub: https://github.com/rishabvsnv
