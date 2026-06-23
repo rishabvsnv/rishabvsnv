@@ -28,7 +28,10 @@ A comprehensive multi-role school management platform designed to streamline aca
 * 📂 Document & Download Center
 * 📆 Timetable & Lesson Planning
 
-> 🔒 Private repository. Available for demonstration upon request.
+📱 **Available on Google Play:**
+https://play.google.com/store/apps/details?id=com.myschoolio.app
+
+> 🔒 Source code is private. Application available publicly on Google Play.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishab-vaishnav) 
