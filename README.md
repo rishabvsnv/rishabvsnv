@@ -1,6 +1,34 @@
 # 💫 About Me:
 🔭 I’m currently working on My Schoolio, a comprehensive School Management System built with Flutter and Laravel.<br><br>👯 I’m looking to collaborate on Flutter applications, EdTech platforms, SaaS products, and open-source projects.<br><br>🤝 I’m looking for help with scalable system architecture, DevOps, CI/CD pipelines, and cloud deployment.<br><br>🌱 I’m currently exploring advanced Flutter performance optimization, scalable app architecture, DevOps, and cloud deployment.<br><br>💬 Ask me about Flutter, Dart, Firebase, Laravel, REST APIs, mobile app architecture, state management, and UI/UX development.<br><br>⚡ Fun fact: I build complete solutions—from backend APIs and databases to polished Flutter applications and production deployments.
 
+# 🚀 Featured Private Projects
+
+## 🏫 MySchoolio — School Management System
+
+**Tech Stack:** Flutter • Laravel • MySQL • REST APIs • Riverpod
+
+A comprehensive multi-role school management platform designed to streamline academic, administrative, and communication workflows for educational institutions.
+
+### ✨ Key Features
+
+* 👨‍🎓 Student Dashboard
+* 👨‍👩‍👧 Parent Dashboard
+* 👨‍🏫 Teacher Dashboard
+* 🏢 Admin Dashboard
+* ⚙️ Super Admin Dashboard
+* 📅 Attendance Management
+* 💳 Fee Management
+* 📝 Examination Management
+* 📚 Library Management
+* 🚌 Transport Management
+* 🔔 Notifications & Communication
+* 📊 Reports & Analytics
+* 🔐 Role-Based Access Control
+* 🎥 Online Classes Integration
+* 📂 Document & Download Center
+* 📆 Timetable & Lesson Planning
+
+> 🔒 Private repository. Available for demonstration upon request.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishab-vaishnav) 
